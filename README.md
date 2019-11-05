@@ -62,3 +62,4 @@ The test for posts will fail ( as expected ) if the database has not been correc
 
 # Testing Webhooks
 - test1
+- test2
